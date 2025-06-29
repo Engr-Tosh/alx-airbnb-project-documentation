@@ -1,0 +1,1 @@
+![Features and Functionalities](airbnb_clone_features.png)
